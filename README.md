@@ -8,3 +8,6 @@
 - Raviteja Gannarapu (016650972
 
 - Varsha Srinivasan (016255175)
+
+## Install Dependencies Command:
+- pip install requirements.txt
